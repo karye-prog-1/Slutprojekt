@@ -32,43 +32,43 @@ Du ska genomföra ett slutprojekt för kursen Programmering 1. Här får du chan
 
 ## Exempel
 * Konsolen
-  * Program
-  * Nyttoprogram
-  * Bokning
-  * En interaktiv berättelse (text-äventyrsspel).
-  * En del av något brädspel, t.ex. Sänka Skepp eller tic-tac-toe.
-  * Ett turbaserat strategispel.
-  * Ett överlevnadsspel, där man varje "runda" blir hungrigare etc och måste göra saker för att bli varm, mätt och så vidare.
-  * 2048.
-  * John Conway’s Game of Life.
-  * Kortspelet 21/Blackjack.
+  * Program
+  * Nyttoprogram
+  * Bokning
+  * En interaktiv berättelse (text-äventyrsspel).
+  * En del av något brädspel, t.ex. Sänka Skepp eller tic-tac-toe.
+  * Ett turbaserat strategispel.
+  * Ett överlevnadsspel, där man varje "runda" blir hungrigare etc och måste göra saker för att bli varm, mätt och så vidare.
+  * 2048.
+  * John Conway’s Game of Life.
+  * Kortspelet 21/Blackjack.
 
 För att göra mer "grafiska" grejer i konsolen kan man till exempel arbeta med tvådimensionella arrayer, och rita upp innehållet i dem med loopar inuti andra loopar. Fråga gärna, så kan jag visa grunden!
 
 ## Vilka delar bedöms?
 Nedan finns en sammanfattad lista med alla delar jag kommer att titta på. Om du vill ha mer detaljer finns de allra längst ner i dokumentet. Där finns alla kriterier för hela kursen.
 * Algoritmer
-  * Enkel algoritm = en välkonstruerad loop, if-sats eller annan serie instruktioner som gör ett specifikt arbete.
-  * Komplex algoritm = en kombination av en eller flera loopar, if-satser, typkonverteringar, slump och/eller readlines som gör ett specifikt arbete.
-  * Återanvändbara algoritmer är bättre.
-  * Mer och flera komplexa algoritmer = bättre för bedömningen.
+  * Enkel algoritm = en välkonstruerad loop, if-sats eller annan serie instruktioner som gör ett specifikt arbete.
+  * Komplex algoritm = en kombination av en eller flera loopar, if-satser, typkonverteringar, slump och/eller readlines som gör ett specifikt arbete.
+  * Återanvändbara algoritmer är bättre.
+  * Mer och flera komplexa algoritmer = bättre för bedömningen.
 * If-satser och loopar.
   * På A-nivå; for-loopar och att du väljer medvetet när for eller while ska användas. Du kan motivera valet.
-  * Variabler, datatyper
+* Variabler, datatyper
 * Typkonvertering, som säkras så att programmet inte kraschar ifall man skriver fel.
 * Arrayer
   * På A-nivå: listor och att du väljer medvetet när arrayer eller listor ska användas. Du kan motivera valet.
 * Metoder
   * Separera delar av din logik till olika metoder.
-  * Varje metod bör göra en sak – flera metoder hellre än långa metoder.
-  * Parametrar, returvärden.
-  * Återanvändbarhet – skapa metoder som gör saker du tror att du kommer att vilja göra fler gånger.
+  * Varje metod bör göra en sak – flera metoder hellre än långa metoder.
+  * Parametrar, returvärden.
+  * Återanvändbarhet – skapa metoder som gör saker du tror att du kommer att vilja göra fler gånger.
 * Kommentarer
-  * Både specifika kodstycken, och övergripande för varje metod.
+   * Både specifika kodstycken, och övergripande för varje metod.
 * Namngivning
-  * Använd C#-standard.
-  * Var konsekvent.
-  * Var tydlig.
+  * Använd C#-standard.
+  * Var konsekvent.
+  * Var tydlig.
 * Interaktion – ge instruktioner och tydlig feedback.
 * Stabilitet – programmet kraschar inte även om användaren är dum eller elak.
 * Felfritt – undvik fel i syntax och logik
