@@ -24,7 +24,6 @@ Du ska genomföra ett slutprojekt för kursen Programmering 1. Här får du chan
 * Använd korrekta programmerings-ord (“variabel”, “datatyp”, “parameter”).
 * Prata om hur programmet fungerar nu, möjliga förbättringar.
 
-
 ## Viktigt att tänka på
 * Du kommer bara att bedömas på den kod du skrivit själv. Om du utgår från något du gjort tillsammans med någon annan så bedöms du bara på de delar du lägger till efteråt.
 * Om du vill utgå från en tutorial på nätet så går det bra, men då måste du informera om det.
@@ -43,9 +42,9 @@ Du ska genomföra ett slutprojekt för kursen Programmering 1. Här får du chan
   * John Conway’s Game of Life.
   * Kortspelet 21/Blackjack.
 
-För att göra mer "grafiska" grejer i konsolen kan man till exempel arbeta med tvådimensionella arrayer, och rita upp innehållet i dem med loopar inuti andra loopar. Fråga gärna, så kan jag visa grunden!
+För att göra mer "grafiska" grejer i konsolen kan man till exempel arbeta med [tvådimensionella arrayer, och rita upp innehållet i dem med loopar inuti andra loopar](https://krank23.gitbook.io/csharp-ref/tekniker/2d-spelbraeden). Fråga gärna, så kan jag visa grunden!
 
-## Vilka delar bedöms?
+# Vilka delar bedöms?
 Nedan finns en sammanfattad lista med alla delar jag kommer att titta på. Om du vill ha mer detaljer finns de allra längst ner i dokumentet. Där finns alla kriterier för hela kursen.
 * Algoritmer
   * Enkel algoritm = en välkonstruerad loop, if-sats eller annan serie instruktioner som gör ett specifikt arbete.
@@ -64,7 +63,7 @@ Nedan finns en sammanfattad lista med alla delar jag kommer att titta på. Om du
   * Parametrar, returvärden.
   * Återanvändbarhet – skapa metoder som gör saker du tror att du kommer att vilja göra fler gånger.
 * Kommentarer
-   * Både specifika kodstycken, och övergripande för varje metod.
+  * Både specifika kodstycken, och övergripande för varje metod.
 * Namngivning
   * Använd C#-standard.
   * Var konsekvent.
