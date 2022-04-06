@@ -1,4 +1,4 @@
-# Slutprojekt
+# Slutprojekt i programmering 1
 
 Du ska genomföra ett slutprojekt för kursen Programmering 1. Här får du chansen att visa (nästan) alla kriterier för kursen på alla nivåer, från E till A.  
 
