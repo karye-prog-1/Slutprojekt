@@ -1,5 +1,9 @@
 # Slutprojekt i programmering 1
 
+## OBS!
+* Öppna terminalen och skapa kodfilerna: **dotnet new console**
+* **Synka** ofta med github, med en kort kommentar om vad du gjort
+
 Du ska genomföra ett slutprojekt för kursen Programmering 1. Här får du chansen att visa (nästan) alla kriterier för kursen på alla nivåer, från E till A.  
 
 ## Det här är vad du förväntas göra
