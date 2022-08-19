@@ -35,9 +35,8 @@ Du ska genomföra ett slutprojekt för kursen Programmering 1. Här får du chan
 
 ## Exempel
 * Konsolen
-  * Program
   * Nyttoprogram
-  * Bokning
+  * Bokningsprogram
   * En interaktiv berättelse (text-äventyrsspel).
   * En del av något brädspel, t.ex. Sänka Skepp eller tic-tac-toe.
   * Ett turbaserat strategispel.
