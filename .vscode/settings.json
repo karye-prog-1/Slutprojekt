@@ -1,15 +1,20 @@
 {
+    "workbench.iconTheme": "vscode-great-icons",
     "workbench.editorAssociations": {   
         "*.md": "vscode.markdown.preview.editor",
     },
     "workbench.colorCustomizations": {
-        "[Sublime Monokai]": {
-            "editor.selectionHighlightBackground": "#ff000054",
-            "editor.background": "#2b2b2b",
-            "tab.inactiveForeground": "#888888"
-        },
-        "activityBar.background": "#2A1484",
-        "titleBar.activeBackground": "#3B1CB8",
-        "titleBar.activeForeground": "#FDFCFF"
-    }
+        "activityBar.background": "#911649",
+        "activityBar.activeBackground": "#d6216c",
+        "titleBar.activeBackground": "#911649",
+        "titleBar.activeForeground": "#FFFFFF"
+    },
+    "editor.codeLens": false,
+    "explorer.compactFolders": false,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "files.autoSave": "afterDelay",
+    "csharp.suppressBuildAssetsNotification": true,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active",
+    "git.postCommitCommand": "sync",
 }
