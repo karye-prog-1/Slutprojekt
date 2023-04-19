@@ -45,7 +45,7 @@ Du ska genomföra ett slutprojekt för kursen Programmering 1. Här får du chan
   * John Conway’s Game of Life.
   * Kortspelet 21/Blackjack.
 
-För att göra mer "grafiska" grejer i konsolen kan man till exempel arbeta med [tvådimensionella arrayer, och rita upp innehållet i dem med loopar inuti andra loopar](https://krank23.gitbook.io/csharp-ref/tekniker/2d-spelbraeden). Fråga gärna, så kan jag visa grunden!
+För att göra mer "grafiska" grejer i konsolen kan man till exempel arbeta med [tvådimensionella arrayer, och rita upp innehållet i dem med loopar inuti andra loopar](https://csharp.progdocs.se//tekniker/2d-spelbraeden). Fråga gärna, så kan jag visa grunden!
 
 # Vilka delar bedöms?
 Nedan finns en sammanfattad lista med alla delar jag kommer att titta på. Om du vill ha mer detaljer finns de allra längst ner i dokumentet. Där finns alla kriterier för hela kursen.
