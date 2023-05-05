@@ -7,7 +7,7 @@
 Du ska genomföra ett slutprojekt för kursen Programmering 1. Här får du chansen att visa (nästan) alla kriterier för kursen på alla nivåer, från E till A.  
 
 ## Det här är vad du förväntas göra
-* Planera någon del av ditt projekt med pseudokod eller flödesschema.
+* Planera någon del av ditt projekt med [pseudokod](https://csharp.progdocs.se/annat/pseudokod-och-diagram) eller flödesschema.
 * Skapa ett programmeringsprojekt som helst innehåller:
   * Variabler, datatyper  
   * Typkonvertering
