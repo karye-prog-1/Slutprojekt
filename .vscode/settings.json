@@ -1,20 +1,29 @@
 {
     "workbench.iconTheme": "vscode-great-icons",
-    "workbench.editorAssociations": {   
-        "*.md": "vscode.markdown.preview.editor",
-    },
+    "git.openRepositoryInParentFolders": "always",
     "workbench.colorCustomizations": {
-        "activityBar.background": "#911649",
-        "activityBar.activeBackground": "#d6216c",
-        "titleBar.activeBackground": "#911649",
-        "titleBar.activeForeground": "#FFFFFF"
+        "activityBar.background": "#e98717",
+        "activityBar.foreground": "#FBF9FD",
+        "titleBar.activeBackground": "#e98717",
+        "titleBar.activeForeground": "#000000",
     },
     "editor.codeLens": false,
-    "explorer.compactFolders": false,
     "editor.multiCursorModifier": "ctrlCmd",
     "files.autoSave": "afterDelay",
-    "csharp.suppressBuildAssetsNotification": true,
     "editor.bracketPairColorization.enabled": true,
     "editor.guides.bracketPairs": "active",
+    "csharp.suppressBuildAssetsNotification": true,
     "git.postCommitCommand": "sync",
+    "sessionlogger.enabled": true,
+    "csharp.debug.console": "externalTerminal",
+    "csharp.referencesCodeLens.enabled": false,
+    "explorer.compactFolders": false,
+    "explorer.sortOrderLexicographicOptions": "unicode",
+    "markdox.urls": [
+        "https://github.com/krank/csharp-ref.git",
+        "https://gitlab.com/karye/prrprr01-te.git"
+    ],
+    "workbench.editorAssociations": {
+        "*.md": "vscode.markdown.preview.editor"
+    }
 }
